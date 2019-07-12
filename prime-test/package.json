@@ -1,0 +1,17 @@
+{
+  "name": "prime-rk-test",
+  "version": "1.0.0",
+  "description": "test prime number",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "rk",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.2"
+  }
+}
